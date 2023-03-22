@@ -18,12 +18,10 @@ The following **extensions** are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-// enter the link for gif to get link simply go to issue new issue upload you gif you will get link
+![heymeme](https://user-images.githubusercontent.com/102821014/226935323-dbf18969-6a5a-40e3-8d62-3d9c3038c39d.gif)
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
